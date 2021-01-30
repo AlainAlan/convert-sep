@@ -1,3 +1,14 @@
+### 要搞的
+
+- [ ] python2改python3
+- [ ] 学习BS
+- [ ] 增加图片爬取、下载、转换格式（如必要）功能
+- [ ] 针对个别注释在独立网页的词条，自动判断并爬取
+- [ ] 增加图片大小自动调整功能
+- [ ] 学习bookdown
+- [ ] 改为bookdown，搭配tinytex
+- [ ] 增加批量处理功能（txt或md）
+
 # ConvertSEP
 To generate [tufte-book](https://tufte-latex.github.io/tufte-latex/) style document for SEP entries.
 ## Dependencies
